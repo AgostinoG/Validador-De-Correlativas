@@ -1,2 +1,2 @@
 # Diagrama de Clases
-![Validador - Diagrama de Clases](https://github.com/user-attachments/assets/af02df1d-0e95-4b86-ac9e-d50a2048cf5b)
+![Validador - Diagrama de Clases](https://github.com/user-attachments/assets/264eef9e-77c7-4209-830d-8cf308db96ec)
